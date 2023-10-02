@@ -1,2 +1,3 @@
 Welcome to MLSA X Hacktoberfest
 are you excited?
+Yes, we are
